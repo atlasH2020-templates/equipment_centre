@@ -1,6 +1,6 @@
 # ATLAS Equipment Centre
 
-[OpenAPI Specifications](https://sensorsystems.iais.fraunhofer.de/doc/?url=https://raw.githubusercontent.com/atlasH2020-templates/equipment_centre/v0.1.0/oas.json)  
+[OpenAPI Specifications](https://sensorsystems.iais.fraunhofer.de/doc/?url=https://raw.githubusercontent.com/atlasH2020-templates/equipment_centre/v0.1.0/oas)  
 
 The ATLAS Equipment Centre facilitates the execution of tasks such as fertilisation, crop protection, harvesting, etc. on tractors.
 
